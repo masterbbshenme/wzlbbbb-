@@ -1,5 +1,5 @@
 
-[note](note.md)
+另一个文件[note](note.md)
 
 ## 1
 #### 1
