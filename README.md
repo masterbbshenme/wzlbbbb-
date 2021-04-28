@@ -5,8 +5,8 @@
 外部网站：[腾讯新闻](https://news.qq.com/)
 ### <span id="jump1">jump</span>
 
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
+
+![baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
 ~~1~~
 
