@@ -1,9 +1,9 @@
 
-1.另一个文件[note](note.md)
-2.## 二级标题
-3.#### 四级标题
-4.外部网站：[腾讯新闻](https://news.qq.com/)
-5.### <span id="jump1">jump</span>
+另一个文件[note](note.md)
+## 二级标题
+#### 四级标题
+外部网站：[腾讯新闻](https://news.qq.com/)
+### <span id="jump1">jump</span>
 
 [![baidu]](http://baidu.com)  
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
