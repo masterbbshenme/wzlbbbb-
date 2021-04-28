@@ -4,9 +4,10 @@
 #### 四级标题
 外部网站：[腾讯新闻](https://news.qq.com/)
 ### <span id="jump1">jump</span>
+网络图片
 ![百度logo](http://www.baidu.com/img/bdlogo.gif) 
 
-~~1~~
+~~删除文字~~
 
 >>1
 
