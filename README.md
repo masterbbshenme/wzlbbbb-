@@ -8,7 +8,7 @@
 
 ![百度logo](http://www.baidu.com/img/bdlogo.gif) 
 
-~~删除文字~~
+
 
 >>1
 
@@ -21,7 +21,8 @@
 
 
 代码块：<br/>
-```#include<iostream>
+``` 
+   #include<iostream>
     using namespace std;
       int main(){	
 	printf("王兆龙")；
@@ -34,6 +35,6 @@
 
 _斜体字_  <br/>
 **加粗**
-
+~~删除文字~~
 [jump](#jump1)
 
