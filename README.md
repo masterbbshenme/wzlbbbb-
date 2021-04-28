@@ -4,7 +4,7 @@
 ## 二级标题
 #### 四级标题
 *1*
-### <span id="jump1">1. 1</span>
+### <span id="jump1">jump</span>
 
 **1**
 
@@ -32,5 +32,5 @@
 * [x] 1
 * [] 2
 
-[1](#jump1)
+[jump](#jump1)
 
